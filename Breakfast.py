@@ -1,4 +1,5 @@
 # Eggs, Bacon, Hash Browns, Pancakes
+#WRITTEN IN PYTON 2.7
 def Textentry(question):
     print(question)
     value = int(input())
